@@ -1,3 +1,6 @@
+# python remFilesFromDir.py [directory] [days]
+# deletes files from [directory] more than [days] old
+
 import os, sys
 import datetime
 
